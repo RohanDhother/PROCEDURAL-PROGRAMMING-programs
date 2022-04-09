@@ -1,0 +1,6 @@
+Question;Answer;Wrong;Impossible;
+Which of these is a marvel character? ; A : Godzilla ; B: Batman ; C: Iron man ;C;B;A;
+Which of these is a DC character? ; A : Captain marvel ; B: Aquaman ; C: Captian underpants ;B;A;C;
+Which of these is a villan character? ; A : Lex luthor ; B: Garfield ; C: Superman ;A;C;B;
+Which of these is the city that Batman protects? ; A : New York City ; B : Gotham City ; C : Metropolis ;B;C;A;
+Which is what monster does Bruce Banner turn into? ; A : The Hulk ; B : The Abomination ; C : Frankenstein ;A;B;C;
